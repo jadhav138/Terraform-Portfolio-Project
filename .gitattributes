@@ -1,4 +1,4 @@
-NEXTJS-BLOG filter=lfs diff=lfs merge=lfs -text
+.NEXTJS-BLOG/* filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
