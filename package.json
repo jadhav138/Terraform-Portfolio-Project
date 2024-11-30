@@ -1,16 +1,3 @@
-{
-  "private": true,
-  "scripts": {
-    "build": "next build",
-    "dev": "next dev",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "engines": {
-    "node": ">=18"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a3a39dc14a3e809d665c93a51c7dfd7674819942eb452779ac2e5301116d09b
+size 253
