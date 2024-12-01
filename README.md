@@ -111,6 +111,8 @@ Next.js is a framework built on React that simplifies the creation of fast, scal
    - Apply the configuration using `terraform apply`.  
 
 ---
+![Screenshot 2024-11-30 163940](https://github.com/user-attachments/assets/336aa6d3-c8db-4ed8-ab6d-8a40273bc6f4)
+
 
 #### **Step 3: Upload Static Files to S3**  
 Use AWS CLI to sync the Next.js output folder with the S3 bucket:  
@@ -128,6 +130,13 @@ Retrieve the CloudFront URL using Terraform:
 terraform output cloudfront_url
 ```  
 Open the URL in a browser to verify the deployment.  
+
+
+
+![Screenshot 2024-11-30 165355](https://github.com/user-attachments/assets/952a575f-092c-4cd5-a2d9-32d44c10ce58)
+
+
+
 
 ---
 
