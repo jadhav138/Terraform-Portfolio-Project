@@ -152,7 +152,7 @@ This project successfully deployed James Smith’s portfolio website using Terra
 - Incorporate monitoring using AWS CloudWatch.  
 - Explore cost optimization strategies with AWS budgets.  
 
-**GitHub Repository:** [Link to Repository](#)  
+**GitHub Repository:** https://github.com/jadhav138/Terraform-Portfolio-Project/tree/master
  
 
  
